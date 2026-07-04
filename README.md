@@ -54,7 +54,7 @@ The API runs on `http://localhost:5000`.
 
 ```bash
 cd stego-app
-npm install
+npm install or npm i
 npm run dev
 ```
 
