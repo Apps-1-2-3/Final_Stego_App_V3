@@ -40,8 +40,6 @@ stego-app/
 
 ```bash
 cd stego-app
-python -m venv backend/.venv
-backend/.venv/Scripts/activate
 pip install -r backend/requirements.txt
 python -m backend.app
 ```
